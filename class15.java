@@ -15,7 +15,7 @@ public static double average(CCircle c[]){
 	return (sum/c.length);
 }
  }
-public class hw9_15 {
+public class class15 {
 	 public static void main(String args[]){
 		 CCircle cir[];
 		 cir=new CCircle[3];
